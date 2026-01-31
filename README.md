@@ -1,7 +1,6 @@
 # -MP4-video-file-into-a-GIF-using-Python-
 This project converts an MP4 video file into a GIF using Python and the moviepy library. It works in an isolated virtual environment to avoid dependency issues.
 Step 1: Create Virtual Environment
-
 Open PowerShell in the project folder and run:
 
 python -m venv .venv
@@ -9,7 +8,6 @@ python -m venv .venv
 🔹 Step 2: Activate Virtual Environment
 PowerShell
 .venv\Scripts\activate
-
 
 After activation, you will see:
 
@@ -31,12 +29,10 @@ clip = VideoFileClip("Status.mp4")
 clip.write_gif("gif_1.gif", fps=10)
 clip.close()
 
-
 Make sure the video file name and path are correct.
 
 ▶️ Step 5: Run the Script
 python "image to gif.py"
-
 
 After successful execution, a GIF file will be generated in the same folder.
 
