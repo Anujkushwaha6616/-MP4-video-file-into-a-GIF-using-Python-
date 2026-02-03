@@ -36,7 +36,7 @@ python "image to gif.py"
 
 After successful execution, a GIF file will be generated in the same folder.
 
-Important Instructions
+Important Instructions:
 
 Always activate the virtual environment before running the script
 
@@ -61,7 +61,7 @@ Using old import style (moviepy.editor)
 Correct Import (MoviePy 2.x)
 from moviepy import VideoFileClip
 
-Notes
+Notes:
 
 Warnings related to last frames are normal
 
