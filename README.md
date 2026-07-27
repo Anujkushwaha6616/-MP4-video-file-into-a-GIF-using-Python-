@@ -69,12 +69,4 @@ GIF creation will still complete successfully
 
 FPS can be adjusted to control size and quality
 
-Deactivate Virtual Environment
 
-After work is done:
-
-deactivate
-
-Done!
-
-Your video-to-GIF converter is now ready to use. 
